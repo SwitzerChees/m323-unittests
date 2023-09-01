@@ -1,0 +1,7 @@
+{
+  "name": "m323-unittests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "switzerchees <patrickmichel96@yahoo.de>",
+  "license": "MIT"
+}
